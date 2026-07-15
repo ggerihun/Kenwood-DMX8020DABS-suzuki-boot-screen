@@ -1,0 +1,4 @@
+Opening Customize
+[FILE]image1.bmp
+[VERSION]9876
+~END
